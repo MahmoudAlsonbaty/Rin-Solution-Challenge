@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58899794093",
+    "project_id": "sol-challenge-beta",
+    "storage_bucket": "sol-challenge-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58899794093:android:73e1b2ee0e118b49679e24",
+        "android_client_info": {
+          "package_name": "com.example.sc_beta1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58899794093-9ntnsv3tq2tg4tdil5ocj4fqt2gkp8nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91j4zI8lijQvWMFXQhFBPaE0zSz1KAdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58899794093-9ntnsv3tq2tg4tdil5ocj4fqt2gkp8nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

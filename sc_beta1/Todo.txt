@@ -1,0 +1,9 @@
+Credit icon8 for the flying email in regissteration https://icons8.com/icon/GNO9f2CARaea/mail
+
+mention we used google fonts, Lexend
+
+In the login screen make sure to check for Email Verification in case the user didn't complete registration 
+
+make sure the field keyboard types are correct in the register screen 
+
+In each page of registration make sure the home button returns home and the back button works and the next button actually goes to next
