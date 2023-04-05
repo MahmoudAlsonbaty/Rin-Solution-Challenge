@@ -1,16 +1,9 @@
-# sc_beta1
+# RIN
 
-A new Flutter project.
+Solution Challenge 2023
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Run main.dart located in Rin-Solution-Challenge/sc_beta1/lib/ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*It was tested only on android but it should theoretically work on IOS too
